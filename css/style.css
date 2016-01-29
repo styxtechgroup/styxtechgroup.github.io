@@ -602,6 +602,7 @@
 			cursor: default;
 			list-style: none;
 			padding-left: 0;
+			text-align: center;
 		}
 
 			ul.icons li {
@@ -614,7 +615,7 @@
 				}
 
 				ul.icons li .icon:before {
-					font-size: 1.5em;
+					font-size: 2.5em;
 				}
 
 		ul.actions {
@@ -944,7 +945,7 @@
 		color: rgba(255, 255, 255, 0.5);
 		height: 100%;
 		left: 0;
-		padding: 4em 4em 2em 4em;
+		padding: 1em 4em 1em 4em;
 		position: fixed;
 		top: 0;
 		width: 35%;
@@ -966,8 +967,9 @@
 		}
 
 		#header .image.avatar {
-			margin: 0 6em 1em 8em;
+			margin: 0 auto 1em auto;
 			width: 6.25em;
+			display: block;
 		}
 
 /* Footer */
