@@ -13,7 +13,7 @@ url: "http://styxtechgroup.github.io" # the base hostname & protocol for your si
 # Delete the word 'example' if you don't want to include the icon in the left sidebar
 
 twitter_username:     styxtechgroup  # Replace this with your Twitter username
-github_username:      StyxTechGroup  # Replace this with your GitHub username
+github_username:      styxtechgroup  # Replace this with your GitHub username
 linkedin_link:    https://www.linkedin.com/company/styx-technology-group  # Replace this with your LinkedIn username
 
 # Build settings
