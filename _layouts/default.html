@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+  	<head>
+  		<title>Strata by HTML5 UP</title>
+  		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  		<meta name="description" content="" />
+  		<meta name="keywords" content="" />
+  		<!--[if lte IE 8]><script src="css/ie/html5shiv.js"></script><![endif]-->
+  		<script src="/js/jquery.min.js"></script>
+  		<script src="/js/jquery.poptrox.min.js"></script>
+  		<script src="/js/skel.min.js"></script>
+  		<script src="/js/init.js"></script>
+  		<noscript>
+  			<link rel="stylesheet" href="/css/skel.css" />
+  			<link rel="stylesheet" href="/css/style.css" />
+  			<link rel="stylesheet" href="/css/style-xlarge.css" />
+  		</noscript>
+  		<!--[if lte IE 8]><link rel="stylesheet" href="/css/ie/v8.css" /><![endif]-->
+  	</head>
+
+	<body id="top">
+      <header id="header">
+          <a href="#" class="image avatar"><img src="/images/logo.jpg" alt="Styx Tech Group Logo" /></a>
+          <h1><strong>Styx Technology Group</strong> is focused on<br />
+          supporting your technology journey <br />to business growth</h1>
+          <p><br>Styx works with C-Level executives to identify, implement & refine strategic technology interventions in their business & target market segments. This is through working with the executives through their strategic plans, annual work plans & market analyses from independent sources. Our consultants have an understanding of technology, business operations with an entrepreneurial streak that allows them to guide you to filter through possibilities. <br><br>With the rapidly changing business environment, customer tastes, and preferences, we are your trusted advisor to rapidly bring that winning formula to your operations.<br><br></p>
+      </header>
+
+
+        {{ content }}
+
+        <!-- Footer -->
+        <footer id="footer">
+            <ul class="icons">
+
+              {% if site.github_username %}
+              <li>
+                <a href="https://github.com/{{ site.github_username }}" class="icon fa-github" target="_blank">
+                  <span class="label">GitHub</span>
+                </a>
+              </li>
+              {% endif %}
+
+              {% if site.twitter_username %}
+              <li>
+                <a href="https://twitter.com/{{ site.twitter_username }}" class="icon fa-twitter" target="_blank">
+                  <span class="label">Twitter</span>
+                </a>
+              </li>
+              {% endif %}
+
+              {% if site.linkedin_link %}
+              <li>
+                <a href="{{ site.linkedin_link }}" class="icon fa-linkedin" target="_blank">
+                  <span class="label">LinkedIn</span>
+                </a>
+              </li>
+              {% endif %}
+
+              {% if site.email %}
+              <li>
+                <a href="mailto:{{ site.email }}" class="icon fa-envelope-o">
+                  <span class="label">Email</span>
+                </a>
+              </li>
+              {% endif %}
+            </ul>
+            <ul class="copyright">
+                <li>&copy; 2015, Styx Technology Group </li>
+                <li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+                <li>Demo Images: <a href="https://unsplash.com/">Unsplash</a></li>
+                <li>Jekyll Template: <a href="http://cloudcannon.com">Cloud Cannon</a></li>
+            </ul>
+        </footer>
+	</body>
+</html>

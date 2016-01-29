@@ -1,0 +1,20 @@
+# Site settings
+
+title: Styx Technology Group # Title of your site
+email: consulting@styxtechgroup.com # Your contant email
+
+description: > # this means to ignore newlines until "baseurl:"
+
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://styxtechgroup.com" # the base hostname & protocol for your site
+
+# Social links.
+# Replace the word 'example' with your username if you want to include the icon in the left sidebar
+# Delete the word 'example' if you don't want to include the icon in the left sidebar
+
+twitter_username:     styxtechgroup  # Replace this with your Twitter username
+github_username:      StyxTechGroup  # Replace this with your GitHub username
+linkedin_link:    https://www.linkedin.com/company/styx-technology-group  # Replace this with your LinkedIn username
+
+# Build settings
+markdown: kramdown
