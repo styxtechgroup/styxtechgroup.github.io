@@ -20,5 +20,5 @@ linkedin_link:    https://www.linkedin.com/company/styx-technology-group  # Repl
 markdown: kramdown
 
 # Additional features
-gems:
+plugins:
   - jekyll-sitemap
