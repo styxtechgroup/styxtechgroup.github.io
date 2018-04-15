@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Software Delivery Coaching Services in Uganda"
+title: Software Delivery Coaching Services in Uganda
 date: 2018-4-15
 categories: 
 - services
