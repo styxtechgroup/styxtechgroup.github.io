@@ -1,24 +1,20 @@
-# Site settings
-
-title: Styx Technology Group # Title of your site
-email: consulting@styxtechgroup.com # Your contant email
-
-description: > # this means to ignore newlines until "baseurl:"
-
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "https://styxtechgroup.com" # the base hostname & protocol for your site
-
-# Social links.
-# Replace the word 'example' with your username if you want to include the icon in the left sidebar
-# Delete the word 'example' if you don't want to include the icon in the left sidebar
-
-twitter_username:     styxtechgroup  # Replace this with your Twitter username
-github_username:      styxtechgroup  # Replace this with your GitHub username
-linkedin_link:    https://www.linkedin.com/company/styx-technology-group  # Replace this with your LinkedIn username
-
-# Build settings
+---
+title: Styx Technology Group
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+email: consulting@styxtechgroup.com
+description: ''
+baseurl: ''
+url: https://styxtechgroup.com
+twitter_username: styxtechgroup
+github_username: styxtechgroup
+linkedin_link: https://www.linkedin.com/company/styx-technology-group
 markdown: kramdown
-
-# Additional features
 plugins:
-  - jekyll-sitemap
+- jekyll-sitemap
