@@ -2,6 +2,7 @@
 layout: post
 title: Software Delivery Coaching Services in Uganda
 date: 2018-4-15
+permalink: services/2018/04/15/software-delivery-coaching-services.html
 categories: 
 - services
 keywords: version control, database design, api first, continous integration, test automation, documentation, agile, product management, evolutionary architecture, application security, OWASP
