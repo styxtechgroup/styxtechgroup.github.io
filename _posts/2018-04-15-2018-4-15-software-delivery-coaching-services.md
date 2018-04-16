@@ -23,4 +23,4 @@ The coaching includes and is not limited to best practices for:
 10. Evolving your architecture & software design
 11. Application Security best practices 
 
-For more details contact us at services at styxtechgroup.com
+For more details contact us at coaching at styxtechgroup.com
