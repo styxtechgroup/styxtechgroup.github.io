@@ -1,13 +1,17 @@
 ---
-layout: post
 title: Software Delivery Coaching Services in Uganda
-date: 2018-4-15
+date: 2018-04-15 00:00:00 Z
 permalink: services/2018/04/15/software-delivery-coaching-services.html
-categories: 
+categories:
 - services
-keywords: version control, database design, api first, continous integration, test automation, documentation, agile, product management, evolutionary architecture, application security, OWASP
-description: Software delivery coaching to help your delivery teams achieve their potential
+layout: post
+keywords: version control, database design, api first, continous integration, test
+  automation, documentation, agile, product management, evolutionary architecture,
+  application security, OWASP
+description: Software delivery coaching to help your delivery teams achieve their
+  potential
 ---
+
 We are happy to announce our new software delivery coaching services in Uganda, which are aimed at helping software delivery teams achieve their full potential by filling gaps in their knowledge and capability. This is leveraging over a combined 50 years of software architecture, design and support experience within our practice across government, civil society, public and private sectors over the last 2 decades.  
 
 The coaching includes and is not limited to best practices for:
