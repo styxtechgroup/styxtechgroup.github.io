@@ -4,7 +4,9 @@ date: 2015-10-20 00:00:00 Z
 categories:
 - solutions
 layout: post
-keywords: mtn uganda, airtel uganda, telecom voice wars, ARPU, average revenue per unit, bundled services, data services, grandfathered plans, smartphone device and service contracts, mobile money, bulk device sales to schools, custom telecom services 
+keywords: mtn uganda, airtel uganda, telecom voice wars, ARPU, average revenue per
+  unit, bundled services, data services, grandfathered plans, smartphone device and
+  service contracts, mobile money, bulk device sales to schools, custom telecom services
 description: Alternate approach to telecom voice wars in Uganda
 ---
 
